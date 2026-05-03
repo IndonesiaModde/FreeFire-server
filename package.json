@@ -1,0 +1,12 @@
+{
+  "name": "ff-private-server-js",
+  "version": "1.0.0",
+  "description": "Servidor privado Free Fire para Render",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
